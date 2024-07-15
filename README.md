@@ -1,4 +1,4 @@
-#*Movie Android Application*
+*Movie Android Application*
 
 **Flixster(Name of the App)** Created a movie android application using Java and JSON to display current movies playing at the theaters along with a summary.
 
