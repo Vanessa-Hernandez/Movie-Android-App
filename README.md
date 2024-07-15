@@ -4,7 +4,7 @@
 
 Submitted by: **Vanessa Hernandez**
 
-## User Stories
+## User can perferm the following
 
 The following **required** functionality is completed:
 
